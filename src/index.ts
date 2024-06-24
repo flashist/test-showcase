@@ -28,28 +28,6 @@ import { Analytics as FirebaseAnalytics } from "@firebase/analytics";
 import { Analytics } from "./modules/analytics/Analytics";
 import { AnalyticsEvent } from "./modules/analytics/AnalyticsEvent";
 
-if (!IS_DEV) {
-    // FIREBASE: START
-    const firebaseConfig = {
-        apiKey: "AIzaSyAoNjZ4jSei7BadOp2koB_QOvuv6tik5yo",
-        authDomain: "lucky-landlord-2236b.firebaseapp.com",
-        projectId: "lucky-landlord-2236b",
-        storageBucket: "lucky-landlord-2236b.appspot.com",
-        messagingSenderId: "477110501185",
-        appId: "1:477110501185:web:5d05a6a3c64a8d7b102bc0",
-        measurementId: "G-PSP7V4P2E3"
-    };
-    const firebaseApp = initializeApp(firebaseConfig);
-    const firebaseAnalytics: FirebaseAnalytics = getAnalytics(firebaseApp);
-    Analytics.firebaseAnalytics = firebaseAnalytics;
-    //
-    Analytics.init({
-        app_version: VERSION,
-        user_id: uuidv4()
-    })
-    // FIREBASE: END
-}
-
 // PIXI
 PIXI.settings.SCALE_MODE = PIXI.SCALE_MODES.LINEAR;
 PIXI.settings.PRECISION_FRAGMENT = PIXI.PRECISION.HIGH;
