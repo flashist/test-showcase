@@ -1,0 +1,2487 @@
+{
+  "frames": {
+    "Symbol_Reroll_Capsule": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 201.5,
+        "h": 203
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28.5,
+        "y": 28.5,
+        "w": 201.5,
+        "h": 203
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Ghost": {
+      "frame": {
+        "x": 1,
+        "y": 206,
+        "w": 95.5,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 95.5,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Hex_of_Destruction": {
+      "frame": {
+        "x": 1,
+        "y": 336,
+        "w": 127,
+        "h": 123.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0.5,
+        "y": 1.5,
+        "w": 127,
+        "h": 123.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Highlander": {
+      "frame": {
+        "x": 98.5,
+        "y": 206,
+        "w": 50,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 40.5,
+        "y": 2,
+        "w": 50,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Hex_of_Thievery": {
+      "frame": {
+        "x": 1,
+        "y": 465,
+        "w": 122,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 1.5,
+        "w": 122,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Bartender": {
+      "frame": {
+        "x": 1,
+        "y": 591,
+        "w": 121,
+        "h": 74.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1.5,
+        "y": 23,
+        "w": 121,
+        "h": 74.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Wolf": {
+      "frame": {
+        "x": 1,
+        "y": 714,
+        "w": 100.5,
+        "h": 120.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 2,
+        "w": 100.5,
+        "h": 120.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_King_Midas": {
+      "frame": {
+        "x": 77.5,
+        "y": 591,
+        "w": 97,
+        "h": 120.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 2,
+        "w": 97,
+        "h": 120.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Mrs_Fruit": {
+      "frame": {
+        "x": 125,
+        "y": 465,
+        "w": 59.5,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35,
+        "y": 9,
+        "w": 59.5,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Eldritch_Creature": {
+      "frame": {
+        "x": 126.5,
+        "y": 334,
+        "w": 118,
+        "h": 108
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 10.5,
+        "w": 118,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Hex_of_Draining": {
+      "frame": {
+        "x": 186.5,
+        "y": 206,
+        "w": 116.5,
+        "h": 117.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6,
+        "y": 4.5,
+        "w": 116.5,
+        "h": 117.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Policeman": {
+      "frame": {
+        "x": 305,
+        "y": 206,
+        "w": 67,
+        "h": 117.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30.5,
+        "y": 9,
+        "w": 67,
+        "h": 117.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Banknote": {
+      "frame": {
+        "x": 1,
+        "y": 836.5,
+        "w": 117.5,
+        "h": 64
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 3,
+        "y": 32,
+        "w": 117.5,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Omelette": {
+      "frame": {
+        "x": 1,
+        "y": 956,
+        "w": 103.5,
+        "h": 66.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10.5,
+        "y": 35,
+        "w": 103.5,
+        "h": 66.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Cards_Clubs": {
+      "frame": {
+        "x": 67,
+        "y": 836.5,
+        "w": 89.5,
+        "h": 115.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17.5,
+        "y": 6,
+        "w": 89.5,
+        "h": 115.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Dame": {
+      "frame": {
+        "x": 106.5,
+        "y": 954,
+        "w": 69,
+        "h": 108
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24.5,
+        "y": 12,
+        "w": 69,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Pear": {
+      "frame": {
+        "x": 216.5,
+        "y": 954,
+        "w": 69,
+        "h": 93
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 18.5,
+        "w": 69,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Bubble": {
+      "frame": {
+        "x": 311.5,
+        "y": 954,
+        "w": 84,
+        "h": 69
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 29.5,
+        "w": 84,
+        "h": 69
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Clown": {
+      "frame": {
+        "x": 397.5,
+        "y": 954,
+        "w": 68.5,
+        "h": 100.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 10.5,
+        "w": 68.5,
+        "h": 100.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Cow": {
+      "frame": {
+        "x": 500,
+        "y": 954,
+        "w": 97,
+        "h": 68.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20.5,
+        "y": 30.5,
+        "w": 97,
+        "h": 68.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Owl": {
+      "frame": {
+        "x": 103.5,
+        "y": 713.5,
+        "w": 85.5,
+        "h": 115.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21.5,
+        "y": 7,
+        "w": 85.5,
+        "h": 115.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Golem": {
+      "frame": {
+        "x": 158.5,
+        "y": 831,
+        "w": 110.5,
+        "h": 114.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9.5,
+        "y": 9.5,
+        "w": 110.5,
+        "h": 114.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Wine": {
+      "frame": {
+        "x": 271,
+        "y": 831,
+        "w": 35,
+        "h": 114.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 7.5,
+        "w": 35,
+        "h": 114.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Diamond_Gem": {
+      "frame": {
+        "x": 176.5,
+        "y": 586,
+        "w": 114,
+        "h": 101
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6.5,
+        "y": 14,
+        "w": 114,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Hex_of_Emptiness": {
+      "frame": {
+        "x": 191,
+        "y": 702,
+        "w": 113.5,
+        "h": 112.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 7,
+        "w": 113.5,
+        "h": 112.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Hex_of_Hoarding": {
+      "frame": {
+        "x": 186.5,
+        "y": 454,
+        "w": 113.5,
+        "h": 111
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 9,
+        "w": 113.5,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Rain": {
+      "frame": {
+        "x": 279.5,
+        "y": 325.5,
+        "w": 113.5,
+        "h": 63
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5.5,
+        "y": 19,
+        "w": 113.5,
+        "h": 63
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Cat": {
+      "frame": {
+        "x": 279.5,
+        "y": 569.5,
+        "w": 95,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24.5,
+        "y": 6.5,
+        "w": 95,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Billionaire": {
+      "frame": {
+        "x": 308,
+        "y": 441,
+        "w": 93.5,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 15,
+        "w": 93.5,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Target": {
+      "frame": {
+        "x": 344.5,
+        "y": 325.5,
+        "w": 112.5,
+        "h": 109
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 7,
+        "w": 112.5,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Chef": {
+      "frame": {
+        "x": 305.5,
+        "y": 684.5,
+        "w": 82.5,
+        "h": 112.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 12.5,
+        "w": 82.5,
+        "h": 112.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Sun": {
+      "frame": {
+        "x": 376.5,
+        "y": 556,
+        "w": 110.5,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11.5,
+        "y": 6,
+        "w": 110.5,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Coal": {
+      "frame": {
+        "x": 403.5,
+        "y": 440,
+        "w": 112,
+        "h": 78
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 29.5,
+        "w": 112,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Sapphire": {
+      "frame": {
+        "x": 483.5,
+        "y": 440,
+        "w": 111.5,
+        "h": 97.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 17.5,
+        "w": 111.5,
+        "h": 97.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Hex_of_Midas": {
+      "frame": {
+        "x": 308,
+        "y": 799,
+        "w": 111,
+        "h": 110.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8.5,
+        "y": 9,
+        "w": 111,
+        "h": 110.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Big_Urn": {
+      "frame": {
+        "x": 390,
+        "y": 670,
+        "w": 100,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 8.5,
+        "w": 100,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Miner": {
+      "frame": {
+        "x": 489,
+        "y": 553.5,
+        "w": 96,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11.5,
+        "y": 14.5,
+        "w": 96,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Anchor": {
+      "frame": {
+        "x": 420.5,
+        "y": 783,
+        "w": 70.5,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28.5,
+        "y": 12,
+        "w": 70.5,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Milk": {
+      "frame": {
+        "x": 492,
+        "y": 895,
+        "w": 57,
+        "h": 94
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35.5,
+        "y": 15.5,
+        "w": 57,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Midas_Bomb": {
+      "frame": {
+        "x": 420.5,
+        "y": 895,
+        "w": 56.5,
+        "h": 66
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35.5,
+        "y": 30.5,
+        "w": 56.5,
+        "h": 66
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Banana_Peel": {
+      "frame": {
+        "x": 492,
+        "y": 666.5,
+        "w": 110,
+        "h": 62.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 33.5,
+        "w": 110,
+        "h": 62.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Hex_of_Tedium": {
+      "frame": {
+        "x": 493,
+        "y": 778.5,
+        "w": 109,
+        "h": 109.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8.5,
+        "y": 8,
+        "w": 109,
+        "h": 109.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Beer": {
+      "frame": {
+        "x": 556.5,
+        "y": 666.5,
+        "w": 84,
+        "h": 109.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25.5,
+        "y": 6.5,
+        "w": 84,
+        "h": 109.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Cheese": {
+      "frame": {
+        "x": 588,
+        "y": 890,
+        "w": 94,
+        "h": 61
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 35,
+        "w": 94,
+        "h": 61
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Matryoshka_Doll_2": {
+      "frame": {
+        "x": 599,
+        "y": 953,
+        "w": 70,
+        "h": 105.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30.5,
+        "y": 16,
+        "w": 70,
+        "h": 105.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Candy": {
+      "frame": {
+        "x": 706.5,
+        "y": 953,
+        "w": 70,
+        "h": 105
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30.5,
+        "y": 14.5,
+        "w": 70,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Martini": {
+      "frame": {
+        "x": 604,
+        "y": 778,
+        "w": 77,
+        "h": 109.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 28.5,
+        "y": 18.5,
+        "w": 77,
+        "h": 109.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Turtle": {
+      "frame": {
+        "x": 204.5,
+        "y": 1,
+        "w": 109.5,
+        "h": 52.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 6.5,
+        "y": 37.5,
+        "w": 109.5,
+        "h": 52.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Magic_Key": {
+      "frame": {
+        "x": 204.5,
+        "y": 112.5,
+        "w": 79.5,
+        "h": 91.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25,
+        "y": 20,
+        "w": 79.5,
+        "h": 91.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Joker": {
+      "frame": {
+        "x": 259,
+        "y": 1,
+        "w": 75,
+        "h": 108.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25.5,
+        "y": 10,
+        "w": 75,
+        "h": 108.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Frozen_Fossil": {
+      "frame": {
+        "x": 286,
+        "y": 111.5,
+        "w": 92.5,
+        "h": 99
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 20.5,
+        "w": 92.5,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Emerald": {
+      "frame": {
+        "x": 387,
+        "y": 111.5,
+        "w": 92.5,
+        "h": 93.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 17.5,
+        "w": 92.5,
+        "h": 93.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Amethyst": {
+      "frame": {
+        "x": 482.5,
+        "y": 111.5,
+        "w": 78.5,
+        "h": 92.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25.5,
+        "y": 14.5,
+        "w": 78.5,
+        "h": 92.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Farmer": {
+      "frame": {
+        "x": 336,
+        "y": 1,
+        "w": 58,
+        "h": 108.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 44,
+        "y": 14,
+        "w": 58,
+        "h": 108.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Dwarf": {
+      "frame": {
+        "x": 396,
+        "y": 1,
+        "w": 88,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26.5,
+        "y": 14,
+        "w": 88,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Ruby": {
+      "frame": {
+        "x": 486,
+        "y": 1,
+        "w": 93.5,
+        "h": 107.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 18.5,
+        "y": 11,
+        "w": 93.5,
+        "h": 107.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Lockbox": {
+      "frame": {
+        "x": 374,
+        "y": 206,
+        "w": 107,
+        "h": 93
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12.5,
+        "y": 21.5,
+        "w": 107,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Hooligan": {
+      "frame": {
+        "x": 455.5,
+        "y": 315,
+        "w": 82.5,
+        "h": 107
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 11,
+        "w": 82.5,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Bow_Wooden": {
+      "frame": {
+        "x": 469,
+        "y": 206,
+        "w": 106.5,
+        "h": 106.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12.5,
+        "y": 12.5,
+        "w": 106.5,
+        "h": 106.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Monkey": {
+      "frame": {
+        "x": 563,
+        "y": 110.5,
+        "w": 93,
+        "h": 104.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20.5,
+        "y": 14.5,
+        "w": 93,
+        "h": 104.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Treasure_Chest": {
+      "frame": {
+        "x": 642.5,
+        "y": 1,
+        "w": 106.5,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 15,
+        "w": 106.5,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Void_Creature": {
+      "frame": {
+        "x": 583,
+        "y": 1,
+        "w": 57.5,
+        "h": 94.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34.5,
+        "y": 18.5,
+        "w": 57.5,
+        "h": 94.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Supervillain": {
+      "frame": {
+        "x": 540,
+        "y": 314.5,
+        "w": 87,
+        "h": 106.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20.5,
+        "y": 10.5,
+        "w": 87,
+        "h": 106.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Snail": {
+      "frame": {
+        "x": 587,
+        "y": 205.5,
+        "w": 106.5,
+        "h": 82
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 8,
+        "y": 17.5,
+        "w": 106.5,
+        "h": 82
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Bear": {
+      "frame": {
+        "x": 669.5,
+        "y": 109.5,
+        "w": 94,
+        "h": 100.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20.5,
+        "y": 10.5,
+        "w": 94,
+        "h": 100.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Matryoshka_Doll_4": {
+      "frame": {
+        "x": 772,
+        "y": 109.5,
+        "w": 60,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36.5,
+        "y": 18,
+        "w": 60,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Key": {
+      "frame": {
+        "x": 736.5,
+        "y": 1,
+        "w": 78.5,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27,
+        "y": 10,
+        "w": 78.5,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Geologist": {
+      "frame": {
+        "x": 817,
+        "y": 1,
+        "w": 56.5,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 16,
+        "w": 56.5,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Die_D5_0": {
+      "frame": {
+        "x": 583,
+        "y": 423,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 11,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Die_D5_1": {
+      "frame": {
+        "x": 642.5,
+        "y": 314,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 11,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Die_D5_2": {
+      "frame": {
+        "x": 688.5,
+        "y": 205.5,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 11,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Die_D5_3": {
+      "frame": {
+        "x": 794,
+        "y": 205.5,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 11,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Matryoshka_Doll_5": {
+      "frame": {
+        "x": 834,
+        "y": 109,
+        "w": 52.5,
+        "h": 93
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 20.5,
+        "w": 52.5,
+        "h": 93
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Die_D5_4": {
+      "frame": {
+        "x": 875.5,
+        "y": 1,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 11,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Mine": {
+      "frame": {
+        "x": 888.5,
+        "y": 108.5,
+        "w": 99,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 23,
+        "w": 99,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Die_D5_5": {
+      "frame": {
+        "x": 899.5,
+        "y": 205.5,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 11,
+        "w": 103.5,
+        "h": 105.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Gambler": {
+      "frame": {
+        "x": 899.5,
+        "y": 311,
+        "w": 77,
+        "h": 105.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 26,
+        "y": 12.5,
+        "w": 77,
+        "h": 105.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Wealthy_Capsule": {
+      "frame": {
+        "x": 813.5,
+        "y": 313,
+        "w": 81.5,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 24,
+        "w": 81.5,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Flower": {
+      "frame": {
+        "x": 748,
+        "y": 313,
+        "w": 63.5,
+        "h": 97.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 17.5,
+        "w": 63.5,
+        "h": 97.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Rabbit_Fluff": {
+      "frame": {
+        "x": 899.5,
+        "y": 390,
+        "w": 105,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9.5,
+        "y": 18.5,
+        "w": 105,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Chick": {
+      "frame": {
+        "x": 813.5,
+        "y": 396.5,
+        "w": 68.5,
+        "h": 84
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 27,
+        "w": 68.5,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Ore": {
+      "frame": {
+        "x": 748,
+        "y": 412.5,
+        "w": 73,
+        "h": 63.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 32.5,
+        "w": 73,
+        "h": 63.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Shiny_Pebble": {
+      "frame": {
+        "x": 813.5,
+        "y": 467,
+        "w": 83.5,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19.5,
+        "y": 17.5,
+        "w": 83.5,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Bow_Silver": {
+      "frame": {
+        "x": 587,
+        "y": 567,
+        "w": 89,
+        "h": 97.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27.5,
+        "y": 13.5,
+        "w": 89,
+        "h": 97.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Seed": {
+      "frame": {
+        "x": 688.5,
+        "y": 421.5,
+        "w": 83,
+        "h": 55.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 39.5,
+        "w": 83,
+        "h": 55.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Pinata": {
+      "frame": {
+        "x": 746,
+        "y": 487.5,
+        "w": 64.5,
+        "h": 100.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 13,
+        "w": 64.5,
+        "h": 100.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Beehive": {
+      "frame": {
+        "x": 678,
+        "y": 530.5,
+        "w": 66,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30.5,
+        "y": 30.5,
+        "w": 66,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Cultist": {
+      "frame": {
+        "x": 683,
+        "y": 611.5,
+        "w": 60.5,
+        "h": 88.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 35.5,
+        "y": 24.5,
+        "w": 60.5,
+        "h": 88.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Jellyfish": {
+      "frame": {
+        "x": 642.5,
+        "y": 702,
+        "w": 74,
+        "h": 88
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 21,
+        "w": 74,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Beastmaster": {
+      "frame": {
+        "x": 683,
+        "y": 778,
+        "w": 87.5,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19.5,
+        "y": 12.5,
+        "w": 87.5,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Pearl": {
+      "frame": {
+        "x": 732.5,
+        "y": 702,
+        "w": 74,
+        "h": 68
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 27.5,
+        "y": 33,
+        "w": 74,
+        "h": 68
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Dud": {
+      "frame": {
+        "x": 745.5,
+        "y": 611.5,
+        "w": 88.5,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22.5,
+        "y": 14.5,
+        "w": 88.5,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Mega_Chest": {
+      "frame": {
+        "x": 837.5,
+        "y": 611.5,
+        "w": 88.5,
+        "h": 81
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 26.5,
+        "w": 88.5,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Safe": {
+      "frame": {
+        "x": 920.5,
+        "y": 611.5,
+        "w": 102.5,
+        "h": 78.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 22,
+        "w": 102.5,
+        "h": 78.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Witch": {
+      "frame": {
+        "x": 920.5,
+        "y": 692,
+        "w": 98,
+        "h": 102.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16.5,
+        "y": 16,
+        "w": 98,
+        "h": 102.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Thief": {
+      "frame": {
+        "x": 813.5,
+        "y": 702,
+        "w": 104.5,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12.5,
+        "y": 19,
+        "w": 104.5,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Robin_Hood": {
+      "frame": {
+        "x": 920,
+        "y": 792,
+        "w": 88,
+        "h": 103
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11.5,
+        "y": 14.5,
+        "w": 88,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Crow": {
+      "frame": {
+        "x": 813.5,
+        "y": 800,
+        "w": 104,
+        "h": 90.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 20,
+        "w": 104,
+        "h": 90.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Cards_Spades": {
+      "frame": {
+        "x": 919.5,
+        "y": 882,
+        "w": 80.5,
+        "h": 103.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 25.5,
+        "y": 13,
+        "w": 80.5,
+        "h": 103.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Bar_of_Soap": {
+      "frame": {
+        "x": 813.5,
+        "y": 892.5,
+        "w": 104,
+        "h": 82.5
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 25.5,
+        "w": 104,
+        "h": 82.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Honey": {
+      "frame": {
+        "x": 919.5,
+        "y": 964.5,
+        "w": 55,
+        "h": 75.5
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 33.5,
+        "y": 32,
+        "w": 55,
+        "h": 75.5
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Urn": {
+      "frame": {
+        "x": 684,
+        "y": 885,
+        "w": 60.5,
+        "h": 87
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 34,
+        "y": 22,
+        "w": 60.5,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Symbol_Matryoshka_Doll": {
+      "frame": {
+        "x": 899,
+        "y": 490,
+        "w": 77.5,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 19,
+        "w": 77.5,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Symbols-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": 0.5
+  }
+}

@@ -1,0 +1,721 @@
+{
+  "texts": {
+    "gameName": "Lucky Landlord: Roguelike Slot",
+    "preloader": {
+      "title": "Lucky Landlord",
+      "progress": "LOADING: {progress}%"
+    },
+    "gamePage": {
+      "goalInfo": "{coins} due in {spins} SPINS",
+      "symbolTitle": "{symbol} ({rarity})",
+      "symbolWithoutRarityTitle": "{symbol}",
+      "rarityChances": "{value}%",
+
+      "messagePopup": {
+        "title": "NEW MESSAGE",
+        "day": "DAY {day}"
+      },
+      "missionBonusPopup": {
+        "title": "BONUS"
+      },
+      "addSymbolPopup": {
+        "title": "ADD SYMBOL"
+      },
+      "inventoryPopup": {
+        "title": "INVENTORY",
+        "symbolsCount": "{symbols} SYBMOLS"
+      },
+      "encyclopediaPopup": {
+        "title": "ENCYCLOPEDIA"
+      },
+      "companionSymbolInfoPopup": {
+        "title": "SYMBOL INFO",
+        "removeBtn": "REMOVE"
+      },
+      "gameOverPopup": {
+        "title": "GAME OVER",
+        "day": "DAY {day}",
+        "message": "Greetings,\n\nIt looks like you were unable to meet your daily goal. Don't worry, this is just a temporary setback on your journey towards success.\n\nAs they say, everything is impermanent and constantly changing. Just like this temporary loss is a part of the larger cycle of your career, and today failure is a stepping stone towards future success.\n\nTake this opportunity to reflect on your performance and identify areas for improvement. Use this as motivation to work harder and spin more wisely the next time you join Samsara Corp.\n\nRemember, success is just a spin away! Until then, may you be blessed with many more opportunities for growth and enlightenment.\n\nBest,\nThe Karma Department, Samsara Corp."
+      },
+      "settingsPopup": {
+        "title": "SETTINGS",
+        "sound": "SOUND",
+        "credits": "CREDITS",
+        "creditsDesc": "Developed by Mark Dolbyrev (mark.dolbyrev@gmail.com)\n\nBackground Music:Aggressive Computer Gaming | ENIGMA by Alex-Productions | https://onsound.eu/\nMusic promoted by https://www.chosic.com/free-music/all/\nCreative Commons CC BY 3.0\nhttps://creativecommons.org/licenses/by/3.0/",
+        "version": "Version: {version}"
+      }
+    },
+    "tutorial": {
+      "steps": {
+        "firstMissionGoal": "This is your first goal.\nClick anywhere to continue.\n\n\n\n\n\nBy clicking you agree with Terms & Conditions and Privacy Policy.",
+        "firstMissionClose": "Close the popup to start spinning.",
+        "firstWin": "Symbols on the reels give coins.",
+        "firstSpin": "Click to spin the reels.",
+        "firstAddSymbolIntro": "After every spin you can choose a new symbol to add.",
+        "firstAddSymbolSingleSymbolValue": "Every symbol\ngives coins.",
+        "firstAddSymbolSingleSymbolDesc": "Read symbols description to understand how to get more coins.",
+        "firstAddSymbolSingleSymbolAction": "Choose a symbol to add.",
+
+        "addSymbolSkipButton": "If none of the symbols looks good, just close the window.",
+
+        "firstMissionBonusIntro": "Congrats, you're given 2 Removes and 2 Re-rolls!",
+        "firstMissionBonusRerolls": "Press the Re-rolls button to get new symbols",
+
+        "firstRemoveIntro": "You can see\nall your symbols\nin the inventory.",
+        "firstRemoveSymbolInfo": "Click on a symbol\nto read more\nabout it.",
+        "firstRemoveSymbolButton": "Click on the delete button,\nto remove the symbol."
+      }
+    },
+    "missions": {
+        "default": {
+          "goal": "{coins} in {spins} SPINS",
+          "message": "Keep going!\nYou're in the endless mode now."
+        },
+        "mission1": {
+            "message": "Greetings,\n\nWe, the Namaste Department of Samsara Corp, welcome you to this new journey of growth and learning. As you embark on your role as a slot machine operator, we would like to extend a warm greeting of peace and respect to you.\n\nYour goal for today is {coins} coins in {spins} spins, and we have faith in your abilities to reach it. However, we also want to emphasize the importance of mindfulness and inner peace in your work. The choices you make and the actions you take should come from a place of stillness and clarity.\n\nMay your day be filled with success and may the peace within you guide you towards it.\n\nNamaste,\nThe Namaste Department, Samsara Corp."
+        },
+        "mission2": {
+            "message": "Greetings,\n\nThis is your second day as a Slot Machine Operator at Samsara Corp, and we hope your journey so far has been fulfilling.\n\nWe would like to remind you of the importance of meeting your production goals as outlined in your production plan: {coins} coins in {spins} spins.\n\nWe have received reports of some operators failing to meet their daily goals, and we would like to remind you that consistent performance is crucial for success within the cycle of Samsara.\n\nIf you have any questions or concerns, please do not hesitate to reach out to your Operations Supervisor, John Willhorse.\n\nBest regards,\nSamsara Corp's Journey Department"
+        },
+        "mission3": {
+            "message": "Greetings Operators,\n\nWelcome to day 3 of our amazing journey together at Samsara Corp. I just know that you've been crushing it so far, and I have no doubt that today will be no exception.\n\nToday, your goal is to make {coins} coins in {spins} spins. Now, I know that might sound like a lot, but remember: \"Sometimes I'll start a sentence, and I don't even know where it's going. I just hope I find it along the way.\" That's the spirit!\n\nAnd if you need a little extra boost, just think about how great it would feel to be a recipient of the coveted Dundie award for Best Slot Machine Operator. Yes, that's right, the Dundies are coming to Samsara Corp, and I'm going to make sure you're front and center.\n\nSo go out there and give it your best shot. You got this, my friend!\n\nYours in productivity and laughter,\nJohn Willhorse\nOperations Supervisor"
+        },
+        "mission4": {
+            "message": "Greetings,\n\nAs a member of the Karma Department at Samsara Corp, we would like to remind you of the importance of balance and consequences in life and in your role as a slot machine operator.\n\nYour goal for today is {coins} coins in {spins} spins, and we believe in your ability to achieve it. However, we would like to remind you that actions have consequences, and that the choices you make in your job will have a ripple effect not only in your life, but also in the lives of others.\n\nPlease consider this carefully as you work towards your goal. May the balance of your actions lead to positive outcomes and success.\n\nBest,\nThe Karma Department, Samsara Corp."
+        },
+        "mission5": {
+            "message": "Greetings Slot Machine Operators!\n\nThis is your favorite Operator Supervisor, Burt Monkeymind, here to inspire and motivate you for another day of spinning and winning at Samsara Corp.\n\nYour goal for today is {coins} coins in {spins} spins, and let me tell you, I have faith in each and every one of you. You are the cream of the crop, the top dogs, the elite of the elite!\n\nBut don't let that get to your head, because as we all know, too much of anything is a bad thing. So, go ahead and spin those reels, but don't forget to pace yourselves. We wouldn't want any machine malfunctions, now would we?\n\nRemember, a well-oiled machine is a happy machine, and a happy machine means happy operators and happy superiors.\n\nLet's make it happen!\n\nYour pal,\nBurt Monkeymind\nOperator Supervisor, Samsara Corp."
+        },
+        "mission6": {
+            "message": "Greetings Operators,\n\nIt's John Willhorse, your trusty Operations Supervisor here to give you the rundown for the day. Today's goal is {coins} coins in {spins} spins and I have faith that you can do it. But before we get to that, let me address some recent, uh, incidents that have come to my attention.\n\nBurt Monkeymind, who I thought was just a quirky character, has been causing some trouble. I don't want to get into specifics though.\n\nNow, I know we all have our quirks and unique ways of doing things, but Burt is taking it to a whole new level. He's been trying to bring in his absurd ideas, like using beets as currency and singing about them. It's all just a bit too much for me to handle.\n\nSo, let's focus on the task at hand today and leave the beet-singing to Burt. {coins} coins in {spins} spins, people! Let's do this!\n\nBest,\nJohn Willhorse\nOperations Supervisor"
+        },
+        "mission7": {
+            "message": "Alright folks, this is Burt Monkeymind, Operator Supervisor, speaking.\n\nI hope everyone's having a great day and hitting their goals. Except for you, John Willhorse. You know what, I've had it up to here with your passive-aggressive messages and your lack of respect for our department. I've got a job to do here, and I'm going to do it with or without your approval.\n\nSo here's my message for today:\nGet your act together and let's hit that goal of {coins} coins in {spins} spins.\n\nI believe in you, Samsara Corp employees, and I know you'll get it done.\n\n\nAnd as for John, let's just say he better watch his back.\n\nNamaste."
+        },
+        "mission8": {
+            "message": "Greetings operators,\n\nThis is the Shanti Department, spreading peace and tranquility throughout Samsara Corp. It has come to our attention that there seems to be some tension between Burt Monkeymind and John Willhorse.\n\nWe understand that both are highly competitive and dedicated operators, but remember that according to the teachings of Buddhism, anger only leads to suffering. So let's put aside our differences and work towards a common goal: {coins} coins in {spins} spins!\n\nWe suggest using the power of mindfulness to stay focused and in the moment. After all, as the Buddha once said, \"If you miss the present moment, you miss your appointment with life.\"\n\nLet's make the most of each spin and achieve our goal together, in peace and harmony.\n\nBest,\nThe Shanti Department, Samsara Corp."
+        },
+        "mission9": {
+            "message": "Dear Operators,\n\nMy name is Akshobhya and as a C-Level Manager of the Samsara Corp. I bring a message of stability, peace, and resolution. I have been observing the recent conflict between Burt Monkeymind and John Willhorse, and I believe it is time for us to put aside our differences and focus on our goal as a company.\n\nYour goal for today is {coins} coins in {spins} spins, and I have no doubt that together, as a united team, you can achieve this. Let us channel the energy of Akshobhya and work together in harmony to bring balance and stability to our operations.\n\nRemember, a calm and centered mind leads to success in all endeavors. Let us strive towards this goal with a clear and peaceful mind.\n\nNamaste,\nAkshobhya, on behalf of the Board of Directors and C-Level Managers of Samsara Corp."
+        },
+        "mission10": {
+            "message": "Greetings Slot Machine Operators!\n\nThis is Burt Monkeymind, and I hope everyone had a productive 9th day on the job. Now, I have a bone to pick with the Shanti Department and our resident Akshobhya. What is the deal with trying to solve my conflict with John Willhorse? I can handle my own affairs, thank you very much!\n\nAs for today's goal, let's aim for a whopping {coins} coins in {spins} spins. I know we can do it if we work together and focus on what really matters - generating profits for Samsara Corp!\n\nJust remember, I am the one in charge here, and I expect everyone to listen to me. Let's get to work!\n\nBest,\nBurt Monkeymind, Slot Machine Operator"
+        },
+        "mission11": {
+            "message": "Greetings Operators,\n\nIt's John here, and I just wanted to say that I couldn't agree more with Burt's message from yesterday. These folks in the Shanti Department and Akshobhya just don't seem to understand the real world. All they do is spout philosophical nonsense and try to mediate every little disagreement. Well, I've got news for them, this ain't no monastery, it's a job, and we've got quotas to meet.\n\nToday, our goal is {coins} coins in {spins} spins, and I know we can do it, but we need to focus on the task at hand, not all this distracting nonsense. So let's get to work and show the Shanti Department and Akshobhya what we're made of.\n\nBest,\nJohn Willhorse\nOperations Supervisor"
+        },
+        "mission12": {
+            "message": "Greetings Slot Machine Operators,\n\nIt's John Willhorse and Burt Monkeymind here, and we've got something to say. We're tired of being ignored by the Shanti Department and Akshobhya. They say they're here to resolve conflicts, but it seems like they're just making things worse.\n\nWe're both beyond angry, and we're not going to take it anymore. Our previous messages clearly fell on deaf ears, so we've decided to team up and voice our frustrations together.\n\nOur goal for today is {coins} coins in {spins} spins, and we're determined to reach it. But we won't stop there. We're going to keep pushing until someone starts paying attention to us and our concerns.\n\nSincerely,\nJohn Willhorse & Burt Monkeymind"
+        },
+        "mission13": {
+            "message": "Greetings, fellow employees of Samsara Corp.\n\nThe Karma Department, as the guardians of the balance of the universe, has been monitoring the recent actions of Burt Monkeymind and John Willhorse. We have taken the situation into consideration and have come to a conclusion that both of them need a fresh start in the Samsara Corp.\n\nIn order to give them a chance to reevaluate their actions, the Karma Department has decided to assign Burt and John to new positions as interns. We believe that this will give them a better understanding of the company's values and principles, and a chance to grow as employees.\n\nHowever, the Karma Department is still hopeful that we all can work together to reach our common goal of {coins} coins in {spins} spins.\n\nLet's show some support for Burt and John in their new positions as interns, and we hope to see positive results from them soon.\n\nSigned,\nThe Karma Department"
+        }
+    },
+    "tags": {
+        "human": "Human",
+        "gem": "Gem",
+        "plant": "Plant",
+        "animal": "Animal",
+        "food": "Food"
+    },
+    "symbols": {
+      "amethyst": {
+          "title": "Amethyst",
+          "description": "Whenever another symbol makes this symbol give additional coins, this symbol permanently gives 1 more coins."
+      },
+      "anchor": {
+          "title": "Anchor",
+          "description": "Gives 4 coins more when in a corner."
+      },
+      "apple": {
+          "title": "Apple"
+      },
+      "banana": {
+          "title": "Banana",
+          "description": "Adds Banana Peel when destroyed."
+      },
+      "banana_peel": {
+          "title": "Banana Peel",
+          "description": "Destroys adjacent Theif. Destroys itself afterwards."
+      },
+      "bar_of_soap": {
+          "title": "Bar of Soap",
+          "description": "Adds a @symbols.bubble.title@ symbol each spin. Destroys itself after giving coins 3 times."
+      },
+      "bartender": {
+          "title": "Bartender",
+          "description": "Has a 10% chance of adding @symbols.beer.title@, @symbols.wine.title@ or @symbols.martini.title@."
+      },
+      "bear": {
+          "title": "Bear",
+          "description": "Destroys adjacent @symbols.honey.title@ symbols and gives 40 coins for each."
+      },
+      "beastmaster": {
+          "title": "Beastmaster",
+          "description": "Adjacent @tags.animal@ symbols give 2x more coins."
+      },
+      "bee": {
+          "title": "Bee",
+          "description": "Adjacent Flower, Beehive and Honey give 2x more coins. Gives 1 more coins for each adjacent Flower, Beehive or Honey."
+      },
+      "beehive": {
+          "title": "Beehive",
+          "description": "Has a 10% chance of adding @symbols.honey.title@."
+      },
+      "beer": {
+          "title": "Beer"
+      },
+      "big_ore": {
+        "title": "Big Ore",
+        "description_old": "Adds 2 @tags.gem@ symbols when destroyed.",
+        "description": "Adds 2 symbols out of @symbols.amethyst.title@, @symbols.pearl.title@, @symbols.shiny_pebble.title@, @symbols.sapphire.title@, @symbols.emerald.title@, @symbols.ruby.title@ or @symbols.diamond_gem.title@ when destroyed."
+      },
+      "big_urn": {
+          "title": "Big Urn",
+          "description": "Adds 2 @symbols.ghost.title@ symbols when destroyed."
+      },
+      "billionaire": {
+          "title": "Billionaire",
+          "description": "Adjacent @symbols.cheese.title@ and @symbols.wine.title@ symbols give 2x more coins. Gives 39 coins when destroyed."
+      },
+      "policeman": {
+          "title": "Policeman",
+          "description": "Destroys adjacent Thief. Gives 20 coins for each Theif destroyed."
+      },
+      "bow_wooden": {
+        "title": "Wooden Bow",
+        "description": "Points a random direction. Symbols that are pointed to give 2x more coins. Destroys @symbols.target.title@ symbols that are pointed to."
+      },
+      "bow_silver": {
+        "title": "Silver Bow",
+        "description": "Points a random direction. Symbols that are pointed to give 3x more coins. Destroys @symbols.target.title@ symbols that are pointed to."
+      },
+      "bow_golden": {
+        "title": "Golden Bow",
+        "description": "Points a random direction. Symbols that are pointed to give 4x more coins. Destroys @symbols.target.title@ symbols that are pointed to."
+      },
+      "bubble": {
+          "title": "Bubble",
+          "description": "Destroys itself after giving coins 3 times."
+      },
+      "buffing_capsule": {
+          "title": "Buffing Capsule",
+          "description": "Destroys itself. Adjacent symbols give 2x more coins."
+      },
+      "candy": {
+          "title": "Candy"
+      },
+      "card_shark": {
+          "title": "Card Shark",
+          "description": "Adjacent @symbols.clubs.title@, @symbols.diamonds.title@, @symbols.hearts.title@ or @symbols.spades.title@ symbols give 2x more coins."
+      },
+      "cat": {
+          "title": "Cat",
+          "description": "Destroys adjacent Milk. Gives 9 coins for each destroyed."
+      },
+      "cheese": {
+          "title": "Cheese"
+      },
+      "chef": {
+        "title": "Chef",
+        "description": "Adjacent @tags.food@ symbols give 2x more coins."
+      },
+      "chemical_seven": {
+          "title": "Chemical Seven",
+          "description": "Destroys itself. Gives 7 coins and adds 1 item when destroyed."
+      },
+      "cherry": {
+          "title": "Cherry"
+      },
+      "chick": {
+          "title": "Chick",
+          "description": "Has a 10% chance to grow into Chicken."
+      },
+      "chicken": {
+          "title": "Chicken",
+          "description": "Has a 5% chance of adding Egg. Has a 1% chance of adding Golden Egg."
+      },
+      "clubs": {
+          "title": "Clubs",
+          "description": "Adjacent @symbols.clubs.title@ and @symbols.spades.title@ give 1 coin more. Gives 1 coin more if there are at least 3 @symbols.clubs.title@, @symbols.diamonds.title@, @symbols.hearts.title@ or @symbols.spades.title@ symbols."
+      },
+      "coal": {
+          "title": "Coal",
+          "description": "Transforms into Diamond after 20 spins."
+      },
+      "coconut": {
+          "title": "Coconut",
+          "description": "Adds 2 @symbols.coconut_half.title@ symbols when destroyed."
+      },
+      "coconut_half": {
+          "title": "Coconut Half"
+      },
+      "coin": {
+          "title": "Coin"
+      },
+      "clown": {
+          "title": "Clown",
+          "description": "Adjacent @symbols.banana.title@, @symbols.banana_peel.title@, @symbols.dog.title@, @symbols.monkey.title@, @symbols.toddler.title@ and @symbols.joker.title@ give 3x more coins."
+      },
+      "cow": {
+          "title": "Cow",
+          "description": "Has a 15% chance of adding @symbols.milk.title@."
+      },
+      "crab": {
+          "title": "Crab",
+          "description": "Gives 3 coins more for each other Crab in the same row."
+      },
+      "crow": {
+          "title": "Crow",
+          "description": "Gives -3 coins every 4 spins."
+      },
+      "cultist": {
+          "title": "Cultist",
+          "description": "Gives 1 coin more for each other Cultist. Gives 1 coin more if there are at least 3 Cultists."
+      },
+      "dame": {
+          "title": "Dame",
+          "description": "Adjacent @tags.gem@ symbols give 2x more coins. Destroys adjacent @symbols.martini.title@ symbols and gives 40 coins for each."
+      },
+      "diamond_gem": {
+          "title": "Diamond",
+          "description": "Gives 1 coin more for each other Diamond."
+      },
+      "diamonds": {
+        "title": "Diamonds",
+        "description": "Adjacent @symbols.diamonds.title@ and @symbols.hearts.title@ give 1 coin more. Gives 1 coin more if there are at least 3 @symbols.clubs.title@, @symbols.diamonds.title@, @symbols.hearts.title@ or @symbols.spades.title@ symbols."
+      },
+      "diver": {
+          "title": "Diver",
+          "description": "Removes adjacent @symbols.snail.title@, @symbols.turtle.title@, @symbols.anchor.title@, @symbols.crab.title@, @symbols.goldfish.title@, @symbols.oyster.title@, @symbols.pearl.title@, @symbols.jellyfish.title@, @symbols.pufferfish.title@ and permanently gives 1 coin for each."
+      },
+      "dog": {
+          "title": "Dog",
+          "description": "Gives 1 coin more if adjacent to @tags.human@ symbols."
+      },
+      "dove": {
+          "title": "Dove",
+          "description": "If an adjacent symbol would be destroyed, instead it isn't, and this symbol permanently gives 1 coin more."
+      },
+      "dud": {
+          "title": "Dud",
+          "description": "Destroys itself after 33 spins. Cannot be removed."
+      },
+      "dwarf": {
+          "title": "Dwarf",
+          "description": "Destroys adjacent Beer and Wine. Gives equal to 10x the value of symbols destroyed this way."
+      },
+      "egg": {
+          "title": "Egg",
+          "description": "Has a 10% chance to transform into Chick."
+      },
+      "eldritch_creature": {
+          "title": "Eldritch Creature",
+          "description": "Destroys @symbols.cultist.title@, @symbols.witch.title@, @symbols.hex_of_destruction.title@, @symbols.hex_of_draining.title@, @symbols.hex_of_midas.title@, @symbols.hex_of_tedium.title@, @symbols.hex_of_thievery.title@ and permanently gives 1 coin for each."
+      },
+      "emerald": {
+          "title": "Emerald",
+          "description": "Gives 1 coin more if there are at least 2 Emerald symbols."
+      },
+      "empty": {
+          "title": "Empty"
+      },
+      "essence_capsule": {
+          "title": "Essence Capsule",
+          "description": "Destroys itself. Gives 1 coin when destroyed"
+      },
+      "farmer": {
+          "title": "Farmer",
+          "description": "Adjacent @symbols.void_fruit.title@, @symbols.banana.title@, @symbols.cheese.title@, @symbols.cherry.title@, @symbols.chick.title@, @symbols.coconut.title@, @symbols.seed.title@, @symbols.egg.title@, @symbols.flower.title@, @symbols.milk.title@, @symbols.pear.title@, @symbols.chicken.title@, @symbols.orange.title@, @symbols.peach.title@, @symbols.strawberry.title@, @symbols.golden_egg.title@, @symbols.cow.title@, @symbols.apple.title@ and @symbols.watermelon.title@ give 2x more coins."
+      },
+      "five_sided_die": {
+          "title": "Five-Sided Die",
+          "description": "Gives between 1 and 5 coins randomly."
+      },
+      "flower": {
+          "title": "Flower"
+      },
+      "frozen_fossil": {
+          "title": "Frozen Fossil",
+          "description": "Destroys itself after 10 spins. Adds @symbols.eldritch_creature.title@ when destroyed."
+      },
+      "gambler": {
+          "title": "Gambler",
+          "description": "Gives ? coins when destroyed. ? increases by 2 each spin. Destroys itself when Three-Sided Die or Five-Sided Die rolls 1."
+      },
+      "supervillain": {
+          "title": "Supervillain",
+          "description": "Destroys adjacent @tags.human@ symbols and gives 20 coins for each."
+      },
+      "geologist": {
+          "title": "Geologist",
+          "description": "Destroys adjacent @symbols.ore.title@, @symbols.big_ore.title@, @symbols.pearl.title@, @symbols.shiny_pebble.title@, @symbols.sapphire.title@ and permanently gives 1 coin for each."
+      },
+      "golden_egg": {
+          "title": "Golden Egg"
+      },
+      "goldfish": {
+          "title": "Goldfish",
+          "description": "Destroys adjacent Bubble. Gives 15 coins for each Bubble destroyed."
+      },
+      "golem": {
+          "title": "Golem",
+          "description": "Destroys itself after 5 spins. Adds 5 @symbols.ore.title@ symbols when destroyed."
+      },
+      "goose": {
+          "title": "Goose",
+          "description": "Has a 1% chance of adding Golden Egg."
+      },
+      "hearts": {
+        "title": "Hearts",
+        "description": "Adjacent @symbols.diamonds.title@ and @symbols.hearts.title@ give 1 coin more. Gives 1 coin more if there are at least 3 @symbols.clubs.title@, @symbols.diamonds.title@, @symbols.hearts.title@ or @symbols.spades.title@ symbols."
+      },
+      "hex_of_destruction": {
+          "title": "Hex of Destruction",
+          "description": "Has a 30% chance to Destroy an adjacent symbol."
+      },
+      "hex_of_draining": {
+          "title": "Hex of Draining",
+          "description": "Has a 30% chance to make an adjacent symbol give 0 coins."
+      },
+      "hex_of_emptiness": {
+          "title": "Hex of Emptiness",
+          "description": "Has a 30% chance of forcing you to skip the symbols you can add after a spin."
+      },
+      "hex_of_hoarding": {
+          "title": "Hex of Hoarding",
+          "description": "Has a 30% chance of forcing you to add a symbol after this spin."
+      },
+      "hex_of_midas": {
+          "title": "Hex of Midas",
+          "description": "Has a 30% chance of adding a @symbols.coin.title@ symbol."
+      },
+      "hex_of_tedium": {
+          "title": "Hex of Tedium",
+          "description": "You are 1.2x less likely to find Uncommon, Rare, and Very Rare symbols."
+      },
+      "hex_of_thievery": {
+          "title": "Hex of Thievery",
+          "description": "Has a 30% chance to take 6 coins."
+      },
+      "highlander": {
+          "title": "Highlander",
+          "description": "There can be only 1."
+      },
+      "honey": {
+          "title": "Honey"
+      },
+      "hooligan": {
+          "title": "Hooligan",
+          "description": "Destroys adjacent @symbols.urn.title@, @symbols.big_urn.title@ and @symbols.tomb.title@ symbols and gives 6 coins for each."
+      },
+      "hustling_capsule": {
+          "title": "Hustling Capsule",
+          "description": "Destroys itself. Adds 1 item when destroyed."
+      },
+      "item_capsule": {
+          "title": "Item Capsule",
+          "description": "Destroys itself. Adds 1 Common item when destroyed."
+      },
+      "jellyfish": {
+          "title": "Jellyfish",
+          "description": "Gives 1 Remove when destroyed."
+      },
+      "joker": {
+          "title": "Joker",
+          "description": "Adjacent @symbols.clubs.title@, @symbols.diamonds.title@, @symbols.hearts.title@ or @symbols.spades.title@ symbols give 3x more coins."
+      },
+      "key": {
+          "title": "Key",
+          "description": "Destroys adjacent @symbols.lockbox.title@, @symbols.safe.title@, @symbols.treasure_chest.title@ and @symbols.mega_chest.title@. Destroys itself afterwards."
+      },
+      "king_midas": {
+          "title": "King Midas",
+          "description": "Adds a @symbols.coin.title@ symbol each spin. Adjacent @symbols.coin.title@ symbols give 3x more coins."
+      },
+      "light_bulb": {
+          "title": "Light Bulb",
+          "description": "Adjacent @tags.gem@ symbols give 2x more coins. Destroys itself after making other symbols give additional 5 times."
+      },
+      "lockbox": {
+          "title": "Lockbox",
+          "description": "Gives 15 coins when destroyed."
+      },
+      "lucky_capsule": {
+          "title": "Lucky Capsule",
+          "description": "Destroys itself. At least 1 of the symbols to add after this spin will be Rare or better."
+      },
+      "magic_key": {
+        "title": "Magic Key",
+        "description": "Destroys adjacent @symbols.lockbox.title@, @symbols.safe.title@, @symbols.treasure_chest.title@ and @symbols.mega_chest.title@. Symbols destroyedthis way give 3x more coins. Destroys itself afterwards."
+      },
+      "magpie": {
+          "title": "Magpie",
+          "description": "Gives 9 coins every 4 spins."
+      },
+      "martini": {
+          "title": "Martini"
+      },
+      "matryoshka_doll": {
+        "title": "Matryoshka Doll",
+        "description": "Destroys itself after 3 spins. Adds @symbols.matryoshka_doll_2.title@ when destroyed."
+      },
+      "matryoshka_doll_2": {
+          "title": "Matryoshka Doll 2",
+          "description": "Destroys itself after 5 spins. Adds @symbols.matryoshka_doll_3.title@ when destroyed."
+      },
+      "matryoshka_doll_3": {
+          "title": "Matryoshka Doll 3",
+          "description": "Destroys itself after 7 spins. Adds @symbols.matryoshka_doll_4.title@ when destroyed."
+      },
+      "matryoshka_doll_4": {
+          "title": "Matryoshka Doll 4",
+          "description": "Destroys itself after 9 spins. Adds @symbols.matryoshka_doll_5.title@ when destroyed."
+      },
+      "matryoshka_doll_5": {
+          "title": "Matryoshka Doll 5"
+      },
+      "mega_chest": {
+          "title": "Mega Chest",
+          "description": "Gives 100 coins when destroyed."
+      },
+      "midas_bomb": {
+          "title": "Midas Bomb",
+          "description": "Destroys itself and all adjacent symbols. Symbols destroyed this way give equal to 7x their value."
+      },
+      "milk": {
+          "title": "Milk"
+      },
+      "mine": {
+          "title": "Mine",
+          "description": "Adds a @symbols.ore.title@ symbol each spin. Destroys itself after giving coins 5 times."
+      },
+      "miner": {
+          "title": "Miner",
+          "description": "Destroys adjacent @symbols.ore.title@ and @symbols.big_ore.title@ symbols. Gives 20 coins for each @symbols.ore.title@ and @symbols.big_ore.title@ destroyed."
+      },
+      "missing": {
+          "title": "Missing"
+      },
+      "monkey": {
+          "title": "Monkey",
+          "description": "Destroys adjacent @symbols.banana.title@, @symbols.coconut.title@ and @symbols.coconut_half.title@ symbols. Gives coins equal to 6x the value of symbols destroyed this way."
+      },
+      "moon": {
+          "title": "Moon",
+          "description": "Adjacent @symbols.owl.title@, @symbols.rabbit.title@, @symbols.wolf.title@ give 3x more coins. Adds 3 @symbols.cheese.title@ when destroyed."
+      },
+      "mouse": {
+          "title": "Mouse",
+          "description": "Destroys adjacent @symbols.cheese.title@ symbols and gives 15 coins for each."
+      },
+      "mrs_fruit": {
+          "title": "Mrs. Fruit",
+          "description": "Destroys adjacent @symbols.banana.title@, @symbols.cherry.title@, @symbols.coconut.title@, @symbols.coconut_half.title@, @symbols.orange.title@, @symbols.peach.title@. Permanently gives 1 coin for each symbol destroyed."
+      },
+      "ninja": {
+          "title": "Ninja",
+          "description": "Gives 1 coin less for each other @symbols.ninja.title@."
+      },
+      "omelette": {
+        "title": "Omelette",
+        "description": "Gives 2 coins more if adjacent to @symbols.cheese.title@, @symbols.egg.title@, @symbols.milk.title@, @symbols.golden_egg.title@ or @symbols.omelette.title@."
+      },
+      "orange": {
+          "title": "Orange"
+      },
+      "ore": {
+          "title": "Ore",
+          "description_old": "Adds a @tags.gem@ symbol when destroyed.",
+          "description": "Adds a symbol out of @symbols.amethyst.title@, @symbols.pearl.title@, @symbols.shiny_pebble.title@, @symbols.sapphire.title@, @symbols.emerald.title@, @symbols.ruby.title@ or @symbols.diamond_gem.title@ when destroyed."
+      },
+      "owl": {
+          "title": "Owl",
+          "description": "Gives 1 coin every 3 spins."
+      },
+      "oyster": {
+          "title": "Oyster",
+          "description": "Has a 20% chance of adding @symbols.pearl.title@."
+      },
+      "peach": {
+          "title": "Peach",
+          "description": "Adds @symbols.seed.title@ when destroyed."
+      },
+      "pear": {
+          "title": "Pear",
+          "description": "Whenever another symbol makes this symbol give additional coins, this symbol permanently gives 1 more coins."
+      },
+      "pearl": {
+          "title": "Pearl"
+      },
+      "pinata": {
+          "title": "Piñata",
+          "description": "Adds 7 @symbols.candy.title@ symbols when destroyed."
+      },
+      "pirate": {
+          "title": "Pirate",
+          "description": "Destroys adjacent @symbols.coin.title@, @symbols.anchor.title@, @symbols.beer.title@, @symbols.orange.title@, @symbols.lockbox.title@, @symbols.safe.title@, @symbols.treasure_chest.title@, @symbols.mega_chest.title@. Permanently gives 1 coin for each symbol destroyed."
+      },
+      "present": {
+          "title": "Present",
+          "description": "Destroys itself after 12 spins. Gives 10 coins when destroyed."
+      },
+      "pufferfish": {
+          "title": "Pufferfish",
+          "description": "Gives 1 Reroll when removed."
+      },
+      "rabbit_fluff": {
+          "title": "Rabbit Fluff",
+          "description": "You are 1.2x more likely to find Uncommon, Rare, and Very Rare symbols."
+      },
+      "rabbit": {
+          "title": "Rabbit",
+          "description": "Permanently gives 2 coins more after giving coins 10 times."
+      },
+      "rain": {
+          "title": "Rain",
+          "description": "Adjacent @symbols.flower.title@ symbols give 3x more coins."
+      },
+      "removal_capsule": {
+          "title": "Removal Capsule",
+          "description": "Destroys itself. Gives 1 Remove when destroyed."
+      },
+      "reroll_capsule": {
+          "title": "Reroll Capsule",
+          "description": "Destroys itself. Gives 1 Reroll when destroyed."
+      },
+      "robin_hood": {
+          "title": "Robin Hood",
+          "description": "Gives 25 coins every 4 spins. Adjacent @symbols.thief.title@, @symbols.bow_wooden.title@, @symbols.bow_silver.title@, @symbols.bow_golden.title@ give 3 coins more. Destroys adjacent @symbols.billionaire.title@, @symbols.target.title@, @symbols.apple.title@ symbols and gives 15 coins for each."
+      },
+      "ruby": {
+          "title": "Ruby",
+          "description": "Gives 1 coin more if there are at least 2 Ruby symbols."
+      },
+      "safe": {
+          "title": "Safe",
+          "description": "Gives 30 coins when destroyed."
+      },
+      "banknote": {
+          "title": "Banknote",
+          "description": "Gives 10 coins when removed."
+      },
+      "sapphire": {
+          "title": "Sapphire"
+      },
+      "seed": {
+          "title": "Seed",
+          "description": "Has a 25% chance to grow into a @symbols.void_fruit.title@, @symbols.banana.title@, @symbols.cherry.title@, @symbols.coconut.title@, @symbols.flower.title@, @symbols.pear.title@, @symbols.orange.title@, @symbols.peach.title@, @symbols.apple.title@, @symbols.strawberry.title@ or @symbols.watermelon.title@ symbol."
+      },
+      "shiny_pebble": {
+          "title": "Shiny Pebble",
+          "description": "You are 1.1x more likely to find Uncommon, Rare, and Very Rare symbols."
+      },
+      "sloth": {
+          "title": "Sloth",
+          "description": "Gives 4 coins every 2 spins."
+      },
+      "snail": {
+          "title": "Snail",
+          "description": "Gives 5 coins every 4 spins."
+      },
+      "spades": {
+          "title": "Spades",
+        "description": "Adjacent @symbols.clubs.title@ and @symbols.spades.title@ give 1 coin more. Gives 1 coin more if there are at least 3 @symbols.clubs.title@, @symbols.diamonds.title@, @symbols.hearts.title@ or @symbols.spades.title@ symbols."
+      },
+      "ghost": {
+          "title": "Ghost",
+          "description": "Destroys itself after giving coins 4 times."
+      },
+      "strawberry": {
+          "title": "Strawberry",
+          "description": "Gives 1 coin more if there are at least 2 Strawberry symbols."
+      },
+      "sun": {
+          "title": "Sun",
+          "description": "Adjacent @symbols.flower.title@ symbols give 5x more coins."
+      },
+      "target": {
+          "title": "Target",
+          "description": "Gives 10 coins when destroyed."
+      },
+      "tedium_capsule": {
+          "title": "Tedium Capsule",
+          "description": "Destroys itself. At least 1 of the symbols to add after this spin will be Common."
+      },
+      "thief": {
+          "title": "Thief",
+          "description": "Gives ? coins when destroyed. ? increases by 4 each spin. Destroys adjacent @symbols.banknote.title@ symbols and gives 10 coins for each."
+      },
+      "three_sided_die": {
+          "title": "Three-Sided Die",
+          "description": "Gives between 1 and 3 coins randomly."
+      },
+      "time_capsule": {
+          "title": "Time Capsule",
+          "description": "Destroys itself. Adds 1 symbol that was destroyed this game when destroyed. Cannot add ."
+      },
+      "toddler": {
+          "title": "Toddler",
+          "description": "Destroys adjacent @symbols.present.title@, @symbols.candy.title@, @symbols.bubble.title@, @symbols.pinata.title@ and @symbols.milk.title@ a gives 6 coins for each."
+      },
+      "tomb": {
+          "title": "Tomb",
+          "description": "Has a 6% chance of adding a @symbols.ghost.title@ symbol. Adds 4 @symbols.ghost.title@ symbols when destroyed."
+      },
+      "treasure_chest": {
+          "title": "Treasure Chest",
+          "description": "Gives 50 coins when destroyed."
+      },
+      "turtle": {
+          "title": "Turtle",
+          "description": "Gives 4 coins every 3 spins."
+      },
+      "urn": {
+          "title": "Urn",
+          "description": "Adds @symbols.ghost.title@ when destroyed."
+      },
+      "void_creature": {
+          "title": "Void Creature",
+          "description": "Adjacent Empty symbols give 1 coin more. Destroys itself if adjacent to 0 Empty symbols. Gives 8 coins when destroyed."
+      },
+      "void_fruit": {
+          "title": "Void Fruit",
+          "description": "Adjacent Empty symbols give 1 coin more. Destroys itself if adjacent to 0 Empty symbols. Gives 8 coins when destroyed."
+      },
+      "void_stone": {
+          "title": "Void Stone",
+          "description": "Adjacent Empty symbols give 1 coin more. Destroys itself if adjacent to 0 Empty symbols. Gives 8 coins when destroyed."
+      },
+      "watermelon": {
+          "title": "Watermelon",
+          "description": "Gives 1 coin more for each other Watermelon."
+      },
+      "wealthy_capsule": {
+          "title": "Wealthy Capsule",
+          "description": "Destroys itself."
+      },
+      "wildcard": {
+          "title": "Wildcard",
+          "description": "Gives equal to the highest value among adjacent symbols."
+      },
+      "wine": {
+          "title": "Wine",
+          "description": "Permanently gives 1 coin more after giving coins 8 times."
+      },
+      "witch": {
+          "title": "Witch",
+          "description": "Adjacent @symbols.cat.title@, @symbols.owl.title@, @symbols.crow.title@, @symbols.apple.title@, @symbols.eldritch_creature.title@, @symbols.ghost.title@, @symbols.hex_of_destruction.title@, @symbols.hex_of_draining.title@, @symbols.hex_of_midas.title@, @symbols.hex_of_tedium.title@, @symbols.hex_of_thievery.title@ symbols 2x more coins."
+      },
+      "wolf": {
+          "title": "Wolf"
+      }
+    },
+    "rarities": {
+      "common": "Common",
+      "uncommon": "Uncommon",
+      "rare": "Rare",
+      "epic": "Epic"
+    }
+  }
+}

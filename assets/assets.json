@@ -1,0 +1,205 @@
+{
+  "files": [
+    {
+      "id": "PreloaderLogo",
+      "src": "assets/images/preloader/PreloaderLogo.png",
+      "fileType": "image",
+      "loadGroups": ["preload", "prepareGame"]
+    },
+    {
+      "id": "PixelCyr",
+      "src": "assets/fonts/PixelCyr/pixel_cyr_normal.ttf",
+      "fileType": "font",
+      "loadGroups": ["preload"],
+      "fontFace": {
+        "font-family": "PixelCyr"
+      }
+    },
+
+    {
+      "id": "BgMusic",
+      "src": "assets/sounds/background/bg_with-intro.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+
+    {
+      "id": "SpinButtonSound",
+      "src": "assets/sounds/ui/SpinButtonSound.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "DefaultButtonSound",
+      "src": "assets/sounds/ui/DefaultButtonSound.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "Coin1_Sound",
+      "src": "assets/sounds/win/Coin1.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "Coin2_Sound",
+      "src": "assets/sounds/win/Coin2.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "Coin3_Sound",
+      "src": "assets/sounds/win/Coin3.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "Coin4_Sound",
+      "src": "assets/sounds/win/Coin4.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "Coin5_Sound",
+      "src": "assets/sounds/win/Coin5.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "Coin6_Sound",
+      "src": "assets/sounds/win/Coin6.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "Coin7_Sound",
+      "src": "assets/sounds/win/Coin7.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "CollectAllSound",
+      "src": "assets/sounds/win/CollectAll.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "SymbolInteractionSound",
+      "src": "assets/sounds/win/SymbolInteraction.{extension}",
+      "extensions": [
+        "webm",
+        "mp3"
+      ],
+      "fileType": "sound",
+      "loadGroups": [
+        "init"
+      ]
+    },
+
+    {
+      "id": "MainScreenBg",
+      "src": "assets/images/reels/Main Screen Bg.png",
+      "fileType": "image",
+      "loadGroups": ["init"]
+    },
+    {
+      "id": "ReelSymbolsBg",
+      "src": "assets/images/reels/ReelSymbolsBg.png",
+      "fileType": "image",
+      "loadGroups": ["init"]
+    },
+
+    {
+      "id": "UiSpritesheet",
+      "src": "assets/spritesheets/ui/UI.json",
+      "fileType": "spritesheet",
+      "loadGroups": [
+        "init"
+      ]
+    },
+
+    {
+      "id": "SymbolsSpritesheet-0",
+      "src": "assets/spritesheets/symbols/Symbols-0.json",
+      "fileType": "spritesheet",
+      "loadGroups": [
+        "init"
+      ]
+    },
+    {
+      "id": "SymbolsSpritesheet-1",
+      "src": "assets/spritesheets/symbols/Symbols-1.json",
+      "fileType": "spritesheet",
+      "loadGroups": [
+        "init"
+      ]
+    }
+
+  ]
+}
